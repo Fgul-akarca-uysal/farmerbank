@@ -1,0 +1,13 @@
+@import 'colors' ;
+@import 'constants' ;
+@import 'media-queries' ;
+@import './styles/navbar' ;
+@import '_showcase';
+@import '_footer';
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:'poppins', sans-serif;
+}
